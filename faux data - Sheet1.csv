@@ -1,4 +1,4 @@
-fly,wingAmp,frequency,duration,avg headAngle with respect to stimulus,treatment,inoculationAmount,daysSinceEclose,CFUml
+fly,wingAmp,frequency,duration,headAngle,treatment,inoculationAmount,daysSinceEclose,CFUml
 1,9.793716,2.33,17.298,12.637122,control,0,3,0
 2,-1.201369,8.075,15.397,-6.730111,control,0,1,0
 3,12.393142,9.009,15.337,-7.466686,control,0,3,0
